@@ -1,4 +1,4 @@
-# biom_z3
+# Facefeature extraction
 Extracting face features from video using Histogram of oriented gradients and Local binary patterns. 
 
 Compare features in false and true pairs using Euclidean distance. 
